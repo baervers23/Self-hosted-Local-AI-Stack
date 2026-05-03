@@ -69,7 +69,8 @@
         "codestral:22b",
         "mistral-nemo",
         "qwen2.5:32b",
-        "deepseek-r1:32b"
+        "deepseek-r1:32b",
+        "codeqwen:7b"
       ],
       "uncensored": [
         "dolphin-mixtral",
