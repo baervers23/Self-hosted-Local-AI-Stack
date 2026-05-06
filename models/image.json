@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "profiles": {
+    "6": {
+      "sd15": [
+        "realisticVisionV60B1_v51VAE.safetensors",
+        "dreamshaper_8.safetensors",
+        "epicrealism_naturalSinRC1.safetensors",
+        "juggernaut_reborn.safetensors",
+        "deliberate_v6.safetensors"
+      ],
+      "lightning": [
+        "sdxl_lightning_4step.safetensors",
+        "sdxl_lightning_8step.safetensors"
+      ]
+    },
+    "8": {
+      "sdxl": [
+        "sd_xl_base_1.0.safetensors",
+        "sd_xl_base_1.0_fp16.safetensors",
+        "juggernautXL_v9.safetensors",
+        "dreamshaperXL_turbo.safetensors",
+        "realvisxlV40_v40.safetensors",
+        "ponyDiffusionV6XL.safetensors"
+      ],
+      "lightning": [
+        "sdxl_lightning_4step.safetensors",
+        "sdxl_lightning_8step.safetensors"
+      ]
+    },
+    "12": {
+      "sdxl": [
+        "juggernautXL_v9.safetensors",
+        "realvisxlV40_v40.safetensors",
+        "ponyDiffusionV6XL.safetensors",
+        "animagineXL_v31.safetensors",
+        "sd_xl_base_1.0.safetensors"
+      ],
+      "flux": [
+        "flux1-schnell-fp8.safetensors",
+        "flux1-dev-fp8.safetensors"
+      ]
+    },
+    "16": {
+      "sdxl": [
+        "juggernautXL_v9.safetensors",
+        "realvisxlV40_v40.safetensors",
+        "ponyDiffusionV6XL.safetensors",
+        "sd_xl_base_1.0.safetensors"
+      ],
+      "flux": [
+        "flux1-dev-fp8.safetensors",
+        "flux1-schnell.safetensors"
+      ]
+    },
+    "24": {
+      "flux": [
+        "flux1-dev.safetensors",
+        "flux1-schnell.safetensors",
+        "flux1-dev-fp8.safetensors"
+      ],
+      "sdxl": [
+        "juggernautXL_v9.safetensors",
+        "realvisxlV40_v40.safetensors"
+      ]
+    }
+  }
+}
